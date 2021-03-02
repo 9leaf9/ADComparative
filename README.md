@@ -2,6 +2,7 @@
 Early Alzheimer’s Disease Diagnosis with Paired Comparative Deep Learning
 The code was written by Hezhe Qiao, Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences, 400714 Chongqing, China, 2University of
 Chinese Academy of Sciences, 100049 BeiJing, China.
+
 Introduction 
 we propose a paired comparative deep learning method that measures the
 differences of group category (G-CAT) and subject mini-mental state examination (S-MMSE), respectively,
@@ -16,4 +17,4 @@ Pytorch version 1.2.0
 
 NVIDIA GPU + CUDA CuDNN (CPU mode, untested) Cuda version 10.0.61
 
-The detailed information will be added after the paper is published.
+The detailed information and pretriand model will be added after the paper is published.
