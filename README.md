@@ -1,6 +1,6 @@
 # ADComparative
 Early Alzheimer’s Disease Diagnosis with Paired Comparative Deep Learning
-The code was written by Hezhe Qiao, Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences, 400714 Chongqing, China, 2University of
+The code was written by Hezhe Qiao, Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences, 400714 Chongqing, China, University of
 Chinese Academy of Sciences, 100049 BeiJing, China.
 
 Introduction 
